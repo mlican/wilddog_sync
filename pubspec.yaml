@@ -4,6 +4,9 @@ version: 0.0.5
 author: Hekaiyou <hekaiyou@qq.com>
 homepage: https://github.com/ChinaFlutterPioneerTeam/wilddog_sync
 
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
 flutter:
   plugin:
     androidPackage: com.hekaiyou.wilddogsync
